@@ -86,3 +86,6 @@ Because a storage tool,a database, is used, and the API listing method already i
 * See the details of a specific movie:http://localhost:9093/v1.0/movies/ {movie id}
 * Filter and list the movies by title: http://localhost:9093/v1.0/movies?title= {movie title or part of title}
 
+
+## Precaution Advice:
+If, for any reason, the application does not show any movies, just refresh the browser and it will load. 
