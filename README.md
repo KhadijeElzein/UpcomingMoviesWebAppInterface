@@ -79,6 +79,6 @@ Because a storage tool,a database, is used, and the API listing method already i
 ## Endpoints:
 
 * List all movies:  http://localhost:9093/v1.0/movies
-* See the details of a specific movie:http://localhost:9093/v1.0/movies/<movie id>
-* Filter and list the movies by title: http://localhost:9093/v1.0/movies?title=<movie title or part of title>
+* See the details of a specific movie:http://localhost:9093/v1.0/movies/ <movie id>
+* Filter and list the movies by title: http://localhost:9093/v1.0/movies?title= <movie title or part of title>
 
